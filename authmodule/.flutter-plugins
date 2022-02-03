@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-3.3.6/
+firebase_auth_web=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.7/
+firebase_core=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.12.0/
+firebase_core_web=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.5.4/
+flutter_facebook_login=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_facebook_login-3.0.0/
+google_sign_in=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-5.2.3/
+google_sign_in_web=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.10.0+4/
+path_provider=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.8/
+path_provider_android=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_android-2.0.11/
+path_provider_ios=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_ios-2.0.7/
+path_provider_linux=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.1.5/
+path_provider_macos=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.5/
+path_provider_windows=/home/user/snap/flutter/common/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.5/
